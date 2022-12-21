@@ -10,7 +10,7 @@
 ----
 <h2/> 🌐 Redes Sociais </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mateus-costa-santos/](https://www.linkedin.com/in/camila-marchi-b901b2151/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camila-marchi-b901b2151/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/camilamusatto/)
 [![Gmail Badge](https://img.shields.io/badge/cmusatto@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmusatto@gmail.c/om)
 
